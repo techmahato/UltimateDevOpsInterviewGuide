@@ -1,12 +1,12 @@
-# 90 Days of DevOps Interview Preparation 🚀
+# Ultimate DevOps and Cloud Interview Guide 🚀
 
 > **The most complete DevOps & Cloud Interview Preparation Guide for 2026** — 500+ real interview questions and answers covering AWS, Azure, GCP, Kubernetes, Docker, Terraform, Jenkins, Ansible, Linux, CI/CD, GitHub Actions, ArgoCD, Prometheus, Grafana, Helm, and more.
 
-[![GitHub stars](https://img.shields.io/github/stars/techmahato-com/90DaysOfDevOpsInterview?style=social)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/techmahato-com/90DaysOfDevOpsInterview?style=social)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/techmahato-com/UltimateDevOpsInterviewGuide?style=social)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/techmahato-com/UltimateDevOpsInterviewGuide?style=social)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
-[![Last Commit](https://img.shields.io/github/last-commit/techmahato-com/90DaysOfDevOpsInterview)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/techmahato-com/UltimateDevOpsInterviewGuide)](https://github.com/techmahato-com/90DaysOfDevOpsInterview/commits/main)
 
 ---
 
